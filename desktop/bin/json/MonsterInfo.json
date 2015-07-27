@@ -1,0 +1,15 @@
+{
+    "Beetle_Black":
+    {
+         "class" : "MonsterInfo",
+         "monsterName":"Beetle_Black",
+         "monsterStatsInfo" :{"normalDamage":2},
+         "path":"beetle/black/",
+         "monsterSkills" :{"objectSkills":[]} ,
+         "framesAnimationPairWalkUp":{"frames":4 , "animationName": "beetle_black_walk_up"},
+         "framesAnimationPairWalkRight":{"frames":4,"animationName": "beetle_black_walk_up"},
+         "framesAnimationPairWalkDown":{"frames":4,"animationName": "beetle_black_walk_up"},
+         "framesAnimationPairWalkLeft":{"frames":4,"animationName": "beetle_black_walk_up"},
+         
+    }
+}

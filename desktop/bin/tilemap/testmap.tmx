@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="60" height="60" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="dws" tilewidth="32" tileheight="32">
+  <tileoffset x="1" y="1"/>
+  <image source="TileSetGetYourCar2.png" width="256" height="64"/>
+ </tileset>
+ <layer name="mapLayer" width="60" height="60">
+  <data encoding="base64" compression="zlib">
+   eJzt1TEKwDAMA0ATaCj5/4P7gE4dUgf7htuFBmlExAAASlofnJKjggmF3M1k981e3TY6+w//dgEAAAAAAAAAAAAvD9K8RM0=
+  </data>
+ </layer>
+</map>

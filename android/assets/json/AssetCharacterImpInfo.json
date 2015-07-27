@@ -1,0 +1,47 @@
+{
+    "green":{
+        
+        "class":"AssetImpCharacterInfo",
+        "animationInfoMap":{
+            
+        
+        "walk_VanillaDown":
+        
+            				{
+            				    
+            				    "class":"FramesAnimationPair",
+            				    "frames":"4",
+            				    "animationName":"_Imp_walk_VanillaDown"
+            				},
+        
+         
+         "walk_VanillaUp":
+            				{
+            				    
+            				    "class":"FramesAnimationPair",
+            				    "frames":"4",
+            				    "animationName":"_Imp_walk_VanillaUp"
+            				},
+          
+        "walk_VanillaRight":
+            				{
+            				    
+            				    "class":"FramesAnimationPair",
+            				    "frames":"4",
+            				    "animationName":"_Imp_walk_VanillaRight"
+            			
+                             },
+           
+       "walk_VanillaLeft":
+            				{
+            				    
+            				    "class":"FramesAnimationPair",
+            				    "frames":"4",
+            				    "animationName":"_Imp_walk_VanillaLeft"
+            				}
+            
+            
+        }
+    
+}
+}

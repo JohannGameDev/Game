@@ -1,0 +1,23 @@
+{
+    "1":
+    {
+        
+        "class":"slot",  
+        "killPoints":233,
+        "experience":222,
+        "gold":433,
+        "level":1,
+        "characterName":"MyCharacter",
+        "characterInfo":{"characterTyp":"imp",
+        "characterLevel" : "5",
+        "statsInformation":{"normalDamage":2},
+        "characterSkillInformation":{"objectSkills":[{"skillName":"BoltSizzle","skillLvl":1,"buttonPosition":1}]},
+        "skinName": "red"},
+        
+        "imageButtonTag":"greenImp"
+             
+      },
+
+      
+    
+}

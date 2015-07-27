@@ -1,0 +1,28 @@
+{
+    "1":
+    {
+        "class":"levelInfo",
+        "time": 2,
+        "monsterArray":[{
+                        "name":"Beetle_Black",
+        				"amount" : "5"
+        				}
+        				],
+        			"tiledMapInfo":{"tiledLayers":["mapLayer"]}	
+    },
+    
+    "2":
+    {
+        "class":"levelInfo",
+        "time": 3,
+        "monsterArray":[{
+                        "name":"Beetle_Black",
+        				"amount" : "5"
+        				},
+        				{
+        				"name":"Spider",
+        				"amount" : "7"
+        				}],
+       "tiledMapInfo":{"tiledLayers":["mapLayer"]}
+    }
+}

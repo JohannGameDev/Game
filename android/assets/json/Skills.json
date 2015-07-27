@@ -1,0 +1,13 @@
+{
+"BoltSizzle" :{
+    
+"class":"SkillInfo",
+"skillName" : "BoltSizzle",
+"skillFramesPerAnimation":{"class":"FramesAnimationPair","frames":"10","animationName":"bolt_sizzle"},
+"skillDamgeInfo":{"class":"SkillDamageInfo","skillGroup":"magic","skillTyp":"AOE","skillAreaWidth":1,"skillAreaHeight":1,"duration":3000,"magicDamage":2},
+"buttonStyleName":"RainOfFireStyle"
+
+}
+
+
+}
